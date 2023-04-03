@@ -1,0 +1,16 @@
+{
+    "name": "dev.kemomimi.TimelineExtension.AbstractValueControlTrack.Controller",
+    "rootNamespace": "",
+    "references": [
+        "dev.kemomimi.TimelineExtension.AbstractValueControlTrack"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
